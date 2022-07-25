@@ -41,6 +41,7 @@ public class practicemvn {
 	}
 	public void test4() {
 		System.out.println("tyss05");
+		System.out.println("hi");
 
 	}
 }
